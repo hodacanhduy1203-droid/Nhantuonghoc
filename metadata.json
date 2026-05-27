@@ -1,0 +1,6 @@
+{
+  "name": "Ma Y Thần Tướng - Xem Tướng Mặt",
+  "description": "Ứng dụng luận giải tướng số qua khuôn mặt dựa trên cuốn sách Ma Y Thần Tướng. Cung cấp luận đoán về ngũ quan, tính cách và vận mệnh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
